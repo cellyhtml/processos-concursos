@@ -1,0 +1,483 @@
+[
+  {
+    "id": 1,
+    "titulo": "Concurso 004/2025 - Saúde",
+    "cargo": "Diversos (Nível Superior e Médio)",
+    "orgao": "Secretaria Municipal de Saúde",
+    "numEdital": "004/2025",
+    "status": "Aberto",
+    "dataLimite": "2025-11-30",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/1o-CONVOCACAO-SAUDE-1.pdf"},
+          { "label": "2ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/2o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "3ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/3o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO DA SAÚDE", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/4o-CONVOCACAO-SAUDE-1.pdf"},
+          { "label": "5ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/5o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "6ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/6o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "7ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/7o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "8ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/8o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "9ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/9o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "10ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/10o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "RETIFICAÇÃO DA 10ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/08/RETIFICACAO-10a-CONVOCACAO-SAUDE-1.pdf"},
+          { "label": "RETIFICAÇÃO DA 4ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/09/RETIFICACAO-4a-CONVOCACAO-SAUDE-TECNICO-EM-ENFERMAGEM.pdf"},
+          { "label": "11ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/09/11o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "12ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/10/12o-CONVOCACAO-SAUDE.pdf"},
+          { "label": "RETIFICAÇÃO DA 12ª CONVOCAÇÃO", "url": "https://ribeiraodasneves.mg.gov.br/wp-content/uploads/2025/10/RETIFICACAO-12a-CONVOCACAO-SAUDE.pdf"}         
+        ]
+      },
+      {
+        "titulo": "POSSE",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EXAME ADMISSIONAL",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EXAME ADMISSIONAL APÓS INTERPOSIÇÃO DE RECURSO",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Processo Seletivo Simplificado - PSS Saúde",
+    "cargo": "Médico Generalista e Enfermeiro",
+    "orgao": "Secretaria Municipal de Saúde",
+    "numEdital": "005/2025",
+    "status": "Em Andamento",
+    "dataLimite": "2025-10-25",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Concurso para Guarda Municipal",
+    "cargo": "Guarda Civil Municipal",
+    "orgao": "Secretaria Municipal de Segurança",
+    "numEdital": "002/2024",
+    "status": "Encerrado",
+    "dataLimite": "2024-12-15",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Processo Seletivo para Agente Comunitário de Saúde",
+    "cargo": "Agente Comunitário de Saúde (ACS)",
+    "orgao": "Secretaria Municipal de Saúde",
+    "numEdital": "003/2025",
+    "status": "Aberto",
+    "dataLimite": "2025-11-10",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Concurso para Professor de Educação Básica",
+    "cargo": "Professor PEB I e PEB II",
+    "orgao": "Secretaria Municipal de Educação",
+    "numEdital": "004/2024",
+    "status": "Homologado",
+    "dataLimite": "2024-10-01",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Processo Seletivo para Motorista e Auxiliar de Serviços",
+    "cargo": "Motorista Categoria D e Auxiliar de Serviços Gerais",
+    "orgao": "Secretaria Municipal de Obras",
+    "numEdital": "006/2025",
+    "status": "Em Andamento",
+    "dataLimite": "2025-10-30",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Concurso para Procurador Municipal",
+    "cargo": "Procurador Municipal",
+    "orgao": "Procuradoria Geral do Município",
+    "numEdital": "007/2025",
+    "status": "Aberto",
+    "dataLimite": "2025-12-15",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Processo Seletivo para Estágio Remunerado",
+    "cargo": "Estagiário em diversas áreas",
+    "orgao": "Secretaria Municipal de Administração",
+    "numEdital": "008/2025",
+    "status": "Inscrições Abertas",
+    "dataLimite": "2025-11-05",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "Concurso para Fiscal de Tributos",
+    "cargo": "Fiscal de Tributos",
+    "orgao": "Secretaria Municipal de Fazenda",
+    "numEdital": "009/2024",
+    "status": "Encerrado",
+    "dataLimite": "2024-09-20",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Processo Seletivo para Técnicos em Enfermagem",
+    "cargo": "Técnico em Enfermagem",
+    "orgao": "Secretaria Municipal de Saúde",
+    "numEdital": "010/2025",
+    "status": "Aberto",
+    "dataLimite": "2025-11-20",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "titulo": "Concurso para Analista de Sistemas",
+    "cargo": "Analista de Sistemas",
+    "orgao": "Secretaria Municipal de Planejamento",
+    "numEdital": "011/2025",
+    "status": "Em Andamento",
+    "dataLimite": "2025-10-28",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "titulo": "Processo Seletivo para Coordenador Pedagógico",
+    "cargo": "Coordenador Pedagógico",
+    "orgao": "Secretaria Municipal de Educação",
+    "numEdital": "012/2024",
+    "status": "Homologado",
+    "dataLimite": "2024-11-10",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "titulo": "Concurso para Engenheiro Civil",
+    "cargo": "Engenheiro Civil",
+    "orgao": "Secretaria Municipal de Obras",
+    "numEdital": "013/2025",
+    "status": "Aberto",
+    "dataLimite": "2025-12-01",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "titulo": "Processo Seletivo para Assistente Social",
+    "cargo": "Assistente Social",
+    "orgao": "Secretaria Municipal de Desenvolvimento Social",
+    "numEdital": "014/2025",
+    "status": "Em Andamento",
+    "dataLimite": "2025-11-15",
+    "documentos": [
+      {
+        "titulo": "CONVOCAÇÃO",
+        "links": [
+          { "label": "1ª CONVOCAÇÃO", "url": "#" },
+          { "label": "2ª CONVOCAÇÃO", "url": "#" },
+          { "label": "RETIFICAÇÃO DA 1ª CONVOCAÇÃO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "RESULTADO FINAL",
+        "links": [
+          { "label": "1º RESULTADO", "url": "#" },
+          { "label": "2º RESULTADO", "url": "#" }
+        ]
+      },
+      {
+        "titulo": "EDITAIS E ANEXOS",
+        "links": [
+          { "label": "EDITAL DE ABERTURA", "url": "#" },
+          { "label": "ANEXO I - CONTEÚDO PROGRAMÁTICO", "url": "#" }
+        ]
+      }
+    ]
+  }
+]
